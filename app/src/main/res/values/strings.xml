@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LiveData</string>
+    <string name="simple_processing">Simple Processing</string>
+    <string name="with_shared_preference">With Shared Preference</string>
+    <string name="transformations_map">Transformations.Map</string>
+    <string name="transformation_switch">Transformation.Switch</string>
+    <string name="with_room">With Room</string>
+    <string name="add_user">Add User</string>
+    <string name="clear_users">Clear Users</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mediatorlivedata">MediatorLiveData</string>
+</resources>
